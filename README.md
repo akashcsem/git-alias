@@ -1,5 +1,5 @@
 # git-alias
-
+``
 
 alias prev='cd -'
 alias home='cd ~/'
@@ -43,3 +43,4 @@ alias makash='git merge akash'
 alias mskycoder='git merge skycoder'
 alisa mmaster='git merge skycoder'
 alias mmaster='git merge master'
+``
