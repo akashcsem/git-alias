@@ -1,19 +1,19 @@
 # git-alias
 
-``php
+```
     alias prev='cd -'
     alias home='cd ~/'
 
-    alias art='php artisan $*'
-    alias serve='php artisan serve'
-    alias tinker='php artisan tinker'
-    alias fresh='php artisan migrate:fresh'
-    alias seed='php artisan db:seed'
-    alias request='php artisan make:request $*'
-    alias model='php artisan make:model $*'
-    alias controller='php artisan make:controller $*'
-    alias migration='php artisan make:migration $*'
-    alias seeder='php artisan make:seeder $*'
+        alias art='php artisan $*'
+        alias serve='php artisan serve'
+        alias tinker='php artisan tinker'
+        alias fresh='php artisan migrate:fresh'
+        alias seed='php artisan db:seed'
+        alias request='php artisan make:request $*'
+        alias model='php artisan make:model $*'
+        alias controller='php artisan make:controller $*'
+        alias migration='php artisan make:migration $*'
+        alias seeder='php artisan make:seeder $*'
 
     alias checkout='git checkout $1'
     alias merge='git merge $1'
